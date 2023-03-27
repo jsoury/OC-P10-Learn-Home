@@ -12,9 +12,10 @@ Chaque élève inscrit sur le site a un tuteur bénévole, qui lui est assigné.
 
 présentes les éléments suivants :
 
-- Les diagrammes de cas d’usage pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord), pas besoin d’utiliser l’UML.
-- Les user stories avec critère(s) d’acceptation pour chacune des fonctionnalités
-- Les maquettes du site avec un design simple et au moins une maquette par page
+- [Les diagrammes de cas d’usage](https://github.com/jsoury/OC-P10-Learn-Home/blob/main/Soury_Jonathan_1_diagramme_cas_usage_102022.pdf) pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord), pas besoin d’utiliser l’UML.
+- [Les user stories](https://github.com/jsoury/OC-P10-Learn-Home/blob/main/Soury_Jonathan_2_user_stories_102022.pdf) avec critère(s) d’acceptation pour chacune des fonctionnalités
+- [Les maquettes](https://github.com/jsoury/OC-P10-Learn-Home/blob/main/Soury_Jonathan_3_maquettes_102022.pdf) du site avec un design simple et au moins une maquette par page
+- Un [Trello](https://trello.com/invite/b/cGbbM2gE/4f96e13a620699868e01ceb764aaeacc/learn-at-home) découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement.
 
 ## 3. Spécifications
 
